@@ -5,6 +5,7 @@
     <string name="screen_text">Text</string>
     <string name="button_label">Button</string>
     <string name="helloMsg">Hello world!</string>
+    <string name="byeMsg">Bye world!</string>
     <string name="sayHelloBtn">say Hello</string>
     <string name="goToByeBtn">say Bye</string>
 </resources>

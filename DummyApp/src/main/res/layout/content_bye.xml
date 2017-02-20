@@ -50,12 +50,12 @@
         style="?android:attr/progressBarStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/progressHello"/>
+        android:id="@+id/progressBye"/>
     <Space
         android:layout_width="match_parent"
         android:layout_height="14dp"/>
     <TextView
-        android:text="@string/helloMsg"
+        android:text="@string/byeMsg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/byeMsg"
