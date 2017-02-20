@@ -21,7 +21,7 @@ public class HelloModel extends GenericModel<Hello.ModelToPresenter>
   public void onCreate(Hello.ModelToPresenter presenter) {
     super.onCreate(presenter);
 
-    HelloLabel = "Click Me!";
+    HelloLabel = "say Hello";
     HelloText = "Hello World!";
   }
 
